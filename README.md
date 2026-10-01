@@ -18,17 +18,6 @@ Me interesan el **vídeo, el streaming en tiempo real y los sistemas multimedia*
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-| --- | --- | --- |
-| [**WebMTX**](https://github.com/Luigiverde4/WebMTX) | Streaming de vídeo en tiempo real y baja latencia, listo para desplegar con Docker | WebRTC · MediaMTX · FFmpeg · Docker |
-| [**SegDRM**](https://github.com/Luigiverde4/SegDRM) | Plataforma DRM educativa con CDM, servidor de contenidos y servidor de licencias | Python · AES · RSA |
-| [**blackjiack**](https://github.com/Luigiverde4/blackjiack) | Detección de cartas en tiempo real que recomienda la jugada óptima de Blackjack | YOLOv8 · OpenCV |
-| [**esgrima-grabacion-multicamara**](https://github.com/Luigiverde4/esgrima-grabacion-multicamara) | Grabación de asaltos de esgrima desde tres cámaras, con mosaico y subida a la nube | Python · FFmpeg · rclone |
-| [**Wireless_Fencing**](https://github.com/Luigiverde4/Wireless_Fencing) | Marcador de esgrima inalámbrico: eventos por UDP y puntuación en tiempo real | C · ESP32 |
-| [**SensorDataViewer**](https://github.com/Luigiverde4/SensorDataViewer) | Visualizador web en tiempo real de datos IMU de un M5Stack Fire | Node.js · Socket.IO |
-
 ## 📫 Contacto
 
 ¿Hablamos? Puedes encontrarme aquí en GitHub: [@Luigiverde4](https://github.com/Luigiverde4)
